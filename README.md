@@ -175,8 +175,14 @@ No warranty is expressed or implied.
 
 ---
 
-If you’d like, I can also:
+## Disclaimer
 
-* Add **inline script header comments** to match the README
-* Convert this into a **PowerShell version**
-* Create an **enterprise deployment version** (silent mode, scheduled task compatible)
+This script is provided “as-is” without warranty. Use at your own risk. Always test in a controlled environment before deploying broadly, especially the **Recovery maintenance** option.
+
+---
+
+## Maintainers
+
+- Owner: Max Timmers
+- Contact: maxtimmers@live.com
+- Last Updated: 19-DEC-2025
