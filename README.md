@@ -168,10 +168,8 @@ Test modifications in a non-production environment before deployment.
 
 ---
 
+## License
 
----
-
-License
 MIT License
 
 Copyright (c) 2025 Max Timmers
